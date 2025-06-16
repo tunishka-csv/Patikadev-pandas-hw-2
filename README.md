@@ -1,7 +1,7 @@
-# Patikadev-pandas-hw-2
+# Patikadev-Pandas (hw-2)
 Kız Başına - Patika.dev Veri Analizi Bootcamp'i kapsamında, Titanik veri seti ile çeşitli analizlerin yapıldığı bir projedir. Analizlerin açıklaması ve ödev kapsamı aşağıda açıklanmıştır.
 
-## odev 2 pandas ödevi
+## Odev 2 pandas ödevi
 
 Titanic veri seti altında aşağıdaki soruları çözmenizi istiyoruz. Her sorunun markdown olarak yazılması ve altına da kodunun yazılması daha okunaklı kılar kodlarınızı.
 1.	Kazada ölenlerin yaş ortalamasını bulunuz

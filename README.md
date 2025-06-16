@@ -1,5 +1,5 @@
 # Patikadev-pandas-hw-2
-Titanic dataset exercises for Patika.dev Data Analysis Bootcamp.
+Kız Başına - Patika.dev Veri Analizi Bootcamp'i kapsamında, Titanik veri seti ile çeşitli analizlerin yapıldığı bir projedir. Analizlerin açıklaması ve ödev kapsamı aşağıda açıklanmıştır.
 
 ## odev 2 pandas ödevi
 

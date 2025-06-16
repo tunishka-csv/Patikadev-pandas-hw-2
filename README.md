@@ -1,5 +1,8 @@
-# Patikadev-Pandas (hw-2)
+# 🚢 Kız Başına Patika.dev Veri Analizi Bootcamp Ödevleri - Pandas ile Titanik Veri Seti (hw-2)
 Kız Başına - Patika.dev Veri Analizi Bootcamp'i kapsamında, Titanik veri seti ile çeşitli analizlerin yapıldığı bir projedir. Analizlerin açıklaması ve ödev kapsamı aşağıda açıklanmıştır.
+
+## 📌Notlar
+Analizler Jupyter Notebook (Colab) üzerinde yapılmıştır. Kodun lokalde doğru çalışması için Titanic_dataset.csv dosyasının uygun path'inin eklenmesi gerekmektedir.
 
 ## Odev 2 pandas ödevi
 
